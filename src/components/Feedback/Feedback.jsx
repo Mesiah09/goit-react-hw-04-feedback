@@ -1,4 +1,4 @@
-import s from './feedback.module.css';
+import s from './feedback.module.scss';
 import PropTypes from 'prop-types';
 export default function Feedback({ options, onLeaveFeedback }) {
   return (

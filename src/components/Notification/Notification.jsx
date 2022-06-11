@@ -1,4 +1,4 @@
-import s from './notification.module.css';
+import s from './notification.module.scss';
 import PropTypes from 'prop-types';
 export default function Notification({ message }) {
   if (!message) return;
